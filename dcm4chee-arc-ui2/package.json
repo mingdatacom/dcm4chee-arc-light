@@ -41,7 +41,7 @@
     "jspdf": "^1.5.3",
     "jspdf-autotable": "^3.2.9",
     "keycloak-js": "^7.0.1",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "material-design-icons": "^3.0.1",
     "moment": "^2.27.0",
     "rxjs": "^6.6.0",
